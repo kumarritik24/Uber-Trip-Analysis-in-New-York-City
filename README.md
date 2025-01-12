@@ -12,7 +12,7 @@ This project explores Uber trip data in New York City to uncover trends, pattern
 ## Tools and Libraries
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn
 - **Jupyter Notebook**: For exploratory data analysis and visualization
-- **Dataset**: [Uber NYC Trip Data](#) (To be added)
+- **Dataset**: [Uber NYC Trip Data]
 
 ## Results
 Key findings from the analysis include:
